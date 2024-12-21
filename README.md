@@ -1,4 +1,4 @@
-<img src="./notalex.gif">
+<img src="./notalex.gif"> </img>
 # heya! im notalex
 i am notalex! check out my website i guess https://nootalex.github.io
 <br>
