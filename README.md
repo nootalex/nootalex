@@ -1,7 +1,7 @@
 <img src="./notalex.gif"> </img>
-# hello, im a person
-<br> i'm mainly interested in websites, roblox studio and unity.. but i'm most interested in sleeping
-<br> i know a few coding languages
+# hello, i'm a person
+<br> i'm primarily interested in html and godot, but i'm really interested in sleeping
+<br> currently working on "studder", a blocky sandbox game thats future is currently unknown
 
 <!---
 nootalex/nootalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
